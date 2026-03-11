@@ -1,0 +1,4 @@
+﻿I applied quantitative and statistical analysis techniques to financial data using Microsoft Excel. 
+I organized and processed datasets of weekly stock returns, calculated summary statistics, and analyzed the relationship between assets through covariance and correlation analysis. 
+I also performed regression analysis to examine how market returns influence individual stock performance, and conducted hypothesis testing using chi-square and F-tests to evaluate variance and compare volatility between stocks. 
+This analysis demonstrates my skills in data analysis, statistical interpretation, risk evaluation, and the use of quantitative methods to support financial and investment decision-making.
